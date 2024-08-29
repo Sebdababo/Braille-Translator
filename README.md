@@ -3,6 +3,9 @@
 ## Overview
 The Braille Translator is a web application that translates text into Braille and vice versa. It provides a user-friendly interface with various features like translation, text clearing, clipboard copying, font size adjustment, and dark mode toggle.
 
+## Try it out!
+[SebDaBaBo's Braille Translator](https://sebdababo.github.io/Braille-Translator/)
+
 ## Features
 - **Text to Braille Translation**: Convert standard text to Braille.
 - **Braille to Text Translation**: Convert Braille back to standard text.
@@ -44,3 +47,6 @@ The Braille Translator is a web application that translates text into Braille an
 
 5. **Toggling Dark Mode**:
    - Click the "Toggle Dark Mode" button to switch between light and dark modes.
+
+## Example Usage
+![Braille Translator output](https://github.com/user-attachments/assets/26987e23-1a78-4e64-abc2-ddd42c8b241a)
